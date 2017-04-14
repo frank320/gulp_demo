@@ -8,8 +8,7 @@
 npm install
 npm intall -g gulp
 ```
-##
-启动
+## 启动
 ```
 gulp
 ```
